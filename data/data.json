@@ -1,0 +1,14 @@
+{
+  "1": {
+    "kid": "1",
+    "name": "main",
+    "programe": "D:\\00-口袋收藏\\91koudai\\91koudai代码管理\\webCrawler\\demo\\news_spider-master\\src\\dist\\main.exe",
+    "logfile": "",
+    "runAs": 1,
+    "operator": "等于",
+    "processNum": 1,
+    "status": "",
+    "monitor": true,
+    "note": ""
+  }
+}
